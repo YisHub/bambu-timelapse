@@ -84,7 +84,7 @@ Ej: 192.168.2.150
 ## Paso 3 — Configuración
 
 ```bash
-git clone https://github.com/tuusuario/bambu-timelapse.git
+git clone https://github.com/YisHub/bambu-timelapse.git
 cd bambu-timelapse
 
 cp .env.example .env
